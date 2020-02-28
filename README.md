@@ -6,6 +6,8 @@ description: CommandUtils wiki的中文翻译
 
 你好!
 
+按顺序浏览即可，如果不喜欢GitBook可通过超链接转到Github Wiki。
+
 你可以通过浏览 [引导](https://github.com/Scott-CT/CommandUtilswiki-zh_CN/wiki/%E5%BC%95%E5%AF%BC#%E5%BC%95%E5%AF%BC) 来获得对插件的基本认识！
 
 为了使插件效用最大化，我推荐你安装 [PlaceholderAPI](https://github.com/Scott-CT/CommandUtilswiki-zh_CN/wiki/PlacehoderAPI-%EF%BC%88PAPI%EF%BC%89)。
