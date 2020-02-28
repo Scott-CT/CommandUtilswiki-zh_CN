@@ -2,7 +2,7 @@
 description: CommandUtils wiki的中文翻译
 ---
 
-# CommandUtilswiki-zh\_CN
+# 首页
 
 你好!
 
