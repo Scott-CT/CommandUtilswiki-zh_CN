@@ -2,11 +2,11 @@
 
 * [CommandUtilswiki-zh\_CN](README.md)
 * [Home](untitled/README.md)
+  * [引导](untitled/yin-dao.md)
   * [PlacehoderAPI-（PAPI）](untitled/placehoderapi-papi.md)
   * [命令别称](untitled/ming-ling-bie-cheng.md)
   * [在服务器启动时执行指令](untitled/zai-fu-wu-qi-qi-dong-shi-zhi-hang-zhi-ling.md)
   * [对于一个sponge的bug的修复方法](untitled/dui-yu-yi-ge-sponge-de-bug-de-xiu-fu-fang-fa.md)
-  * [引导](untitled/yin-dao.md)
   * [执行命令](untitled/zhi-hang-ming-ling.md)
   * [条件命令](untitled/tiao-jian-ming-ling.md)
   * [物品定义](untitled/wu-pin-ding-yi.md)
