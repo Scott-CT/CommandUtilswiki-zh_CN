@@ -1,7 +1,6 @@
 # Table of contents
 
 * [CommandUtilswiki-zh\_CN](README.md)
-* [首页](shou-ye.md)
 * [引导](yin-dao.md)
 * [命令别称](ming-ling-bie-cheng.md)
 * [执行命令](zhi-hang-ming-ling.md)
